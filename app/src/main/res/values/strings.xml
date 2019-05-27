@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--application name-->
+    <string name="app_name">Магазинчик</string>
+
+    <!--bottom navigation-->
+    <string name="title_nav_recent">Недавні</string>
+    <string name="title_nav_category">Категорії</string>
+    <string name="title_nav_help">Допомога</string>
+    <string name="title_nav_profile">Профіль</string>
+
+    <!--privacy policy-->
+    <string name="privacy_policy_url"></string>
+
+    <!--share text-->
+    <string name="share_app"></string>
+    <string name="share_product_section_one">Пошук</string>
+    <string name="share_product_section_two">з ціною</string>
+    <string name="share_product_section_three"></string>
+
+    <!--network-->
+    <string name="no_internet">Будь ласка, ввімкніть інтернет для використання додатку в повному обсязі!</string>
+
+    <!--title bar-->
+    <string name="title_cart">Корзина</string>
+    <string name="title_checkout">Завершення покупок</string>
+
+    <!--action-->
+    <string name="action_cart">Моя корзина</string>
+    <string name="action_clear">Очистити</string>
+
+    <!--menu, cart and order-->
+    <string name="search_query_text">Search&#8230;</string>
+    <string name="confirm">Підтвердження</string>
+    <string name="number_order">Кількість замовлень : </string>
+    <string name="clear_all_order">Чи бажаєте очистити усі Ваші замовлення??</string>
+    <string name="clear_one_order">Чи бажаєте видалити це замовлення?</string>
+    <string name="db_exist_alert">Чи бажаєте видалити попереднє замовлення?</string>
+    <string name="msg_empty_cart">Ваша корзина пуста!</string>
+    <string name="msg_no_history">Ваша історія замовлень пуста!</string>
+    <string name="empty_cart">Упс, корзина пуста</string>
+    <string name="btn_continue_shopping">Продовжити покупки</string>
+    <string name="btn_add_to_cart">ДОДАТИ ДО КОШИКА</string>
+    <string name="btn_out_of_stock">ВИГЛЯД</string>
+    <string name="msg_stock_not_enough">Не достатньо</string>
+    <string name="msg_stock_below_0">кількість товарів не може бути 0</string>
+    <string name="msg_success_add_cart">Успішно додадано продукт до кошику</string>
+    <string name="btn_checkout">Завершення покупок</string>
+
+    <!--checkout menu-->
+    <string name="checkout_your_name">Як Вас звуть?</string>
+    <string name="checkout_email">Ваш email</string>
+    <string name="checkout_phone_number">Номер телефону</string>
+    <string name="checkout_order_list">Деталі замовлення</string>
+    <string name="checkout_add_comment">Коментар</string>
+    <string name="no_order_menu">Немає замовлень</string>
+    <string name="txt_order">Замовлення :</string>
+    <string name="txt_tax">Податок :</string>
+    <string name="txt_total">Всього :</string>
+    <string name="txt_shipping">Доставка</string>
+    <string name="checkout_fill_form">будь ласка, заповність спочатку форму!</string>
+    <string name="checkout_dialog_title">Процес перевірки</string>
+    <string name="checkout_dialog_msg">Дійсно бажаєте перейти до перевірки?</string>
+    <string name="checkout_submit_title">Будь ласка, зачекайте</string>
+    <string name="checkout_submit_msg">Підтвердіть замовлення&#8230;</string>
+    <string name="checkout_success_title">Вітаємо!</string>
+    <string name="checkout_success_msg">Дякуємо за замовлення! Ваше замовлення буде переглянуто вже скоро, деталі замовлення будуть надіслані на електронну пошту!</string>
+    <string name="checkout_option_ok">OK</string>
+    <string name="checkout_address">Адреса</string>
+    <string name="checkout_shipping">Доставка</string>
+    <string name="title_history">Історія замовлень</string>
+    <string name="title_profile">Профіль користувача</string>
+    <string name="btn_process_checkout">ПРОЦЕС ПЕРЕВІРКИ</string>
+
+    <!--profile preferences-->
+    <string name="pref_group_profile">ПРОФІЛЬ</string>
+    <string name="pref_title_name">Як Вас звуть?</string>
+    <string name="pref_title_email">Email</string>
+    <string name="pref_title_phone">Номер телефону</string>
+    <string name="pref_title_address">Адреса</string>
+    <string name="default_your_name">Андрій</string>
+    <string name="default_your_email">your.email@gmail.com</string>
+    <string name="default_your_phone">+38093456789</string>
+    <string name="default_your_address">Ваша адреса</string>
+    <string name="pref_msg_invalid_name">Як Вас звуть?</string>
+    <string name="pref_msg_invalid_email">Невірний email</string>
+    <string name="pref_msg_invalid_phone">Невірний номер телефону</string>
+    <string name="pref_msg_invalid_address">Невірна адреса</string>
+
+    <!--permission-->
+    <string name="permission_msg">Необхідний доступ</string>
+    <string name="permission_storage">Додатку необхідний доступ до сховища, для операцій з фото</string>
+    <string name="download_success">Фото було завантажено у галерею.</string>
+    <string name="download_msg">Завантаження&#8230;</string>
+    <string name="loading_msg">Будь ласка, зачекайте&#8230;</string>
+
+    <!--dialog choose option-->
+    <string name="dialog_option_yes">Так</string>
+    <string name="dialog_option_no">Ні</string>
+    <string name="dialog_option_cancel">Відміна</string>
+    <string name="dialog_option_add">Додати</string>
+    <string name="dialog_settings">До налаштувань</string>
+    <string name="msg_exit">Знову, щоб вийти</string>
+    <string name="txt_items">товар(ів)</string>
+    <string name="title_img_save">Зберегти</string>
+    <string name="title_img_close">Закрити</string>
+    <string name="msg_copy">Код купівлі скопійовано</string>
+    <string name="failed_fetch_data">Не вдалося отримати дані! Спробуйте знову.</string>
+    <string name="btn_edit_profile">РЕДАГУВАТИ</string>
+    <string name="txt_profile_history">Історія замовлень</string>
+    <string name="txt_profile_rate">Оцініть нас</string>
+    <string name="txt_profile_privacy">Політика конфіденційності</string>
+    <string name="txt_total_order">Кінцеве замовлення</string>
+    <string name="txt_profile_share">Поширити</string>
+
+</resources>
